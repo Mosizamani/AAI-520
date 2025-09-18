@@ -1,0 +1,1242 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>bae2069e4887432f943aec58892c4dd6</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      {   }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+    code span.at { color: #7d9029; } /* Attribute */
+    code span.bn { color: #40a070; } /* BaseN */
+    code span.bu { color: #008000; } /* BuiltIn */
+    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #4070a0; } /* Char */
+    code span.cn { color: #880000; } /* Constant */
+    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+    code span.dt { color: #902000; } /* DataType */
+    code span.dv { color: #40a070; } /* DecVal */
+    code span.er { color: #ff0000; font-weight: bold; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #40a070; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { color: #008000; font-weight: bold; } /* Import */
+    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+    code span.op { color: #666666; } /* Operator */
+    code span.ot { color: #007020; } /* Other */
+    code span.pp { color: #bc7a00; } /* Preprocessor */
+    code span.sc { color: #4070a0; } /* SpecialChar */
+    code span.ss { color: #bb6688; } /* SpecialString */
+    code span.st { color: #4070a0; } /* String */
+    code span.va { color: #19177c; } /* Variable */
+    code span.vs { color: #4070a0; } /* VerbatimString */
+    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<section id="assignment-21-nlp-ner-and-pos-tagging"
+class="cell markdown" id="bcuF_YwWKhYb">
+<h1>Assignment 2.1: NLP, NER and PoS Tagging</h1>
+<p>Mostafa Zamaniturk</p>
+</section>
+<div class="cell markdown" id="I_3GpMehKhYc">
+<p>Instructions In this assignment, you will apply Natural Language
+Processing (NLP), Named Entity Recognition (NER), and Part-of-Speech
+(PoS) techniques in NLP to analyze the Climate Fever dataset. The
+dataset contains climate change-related articles, and your task is to
+extract named entities and assign PoS tags to different parts of speech
+in the text.</p>
+</div>
+<section id="instructions" class="cell markdown" id="V-SRvr6GKhYd">
+<h1>Instructions</h1>
+<p>In this assignment, you will apply Natural Language Processing (NLP),
+Named Entity Recognition (NER), and Part-of-Speech (PoS) techniques in
+NLP to analyze the Climate Fever dataset. The dataset contains climate
+change-related articles, and your task is to extract named entities and
+assign PoS tags to different parts of speech in the text.</p>
+</section>
+<div class="cell code" data-execution_count="1" id="zm1O4b6373G_">
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Import needed libraries</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span></code></pre></div>
+</div>
+<section id="required-details" class="cell markdown" id="IsuImYCUKhYd">
+<h1>Required Details</h1>
+<p>1- Apply NER techniques to identify named entities (such as persons,
+organizations, locations, etc.) within the text.</p>
+</section>
+<div class="cell code" data-execution_count="2"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}"
+id="3AbpRAnv88bP" data-outputId="d34ac7f2-f05d-4cce-ff92-eee5ed5b734d">
+<div class="sourceCode" id="cb2"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> kagglehub</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Download dataset</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>path <span class="op">=</span> kagglehub.dataset_download(<span class="st">&quot;bouweceunen/climate-fever-dataset&quot;</span>)</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">&quot;Path to dataset files:&quot;</span>, path)</span></code></pre></div>
+<div class="output stream stdout">
+<pre><code>Using Colab cache for faster access to the &#39;climate-fever-dataset&#39; dataset.
+Path to dataset files: /kaggle/input/climate-fever-dataset
+</code></pre>
+</div>
+</div>
+<div class="cell code" data-execution_count="3"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;,&quot;height&quot;:707}"
+id="1YcEwWbc8G-3" data-outputId="d7d30390-03ab-4228-87c6-0add0d208223">
+<div class="sourceCode" id="cb4"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="co"># List files in the downloaded dataset folder</span></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>os.listdir(path)</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="co"># Suppose the CSV file is named &#39;climate-fever.csv&#39;</span></span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_csv(os.path.join(path, <span class="st">&#39;climate-fever.csv&#39;</span>))</span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>df.head()</span></code></pre></div>
+<div class="output execute_result" data-execution_count="3">
+
+  <div id="df-027e02c1-496a-4d5d-88db-0dc0db98601f" class="colab-df-container">
+    <div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>claim_id</th>
+      <th>claim</th>
+      <th>claim_label</th>
+      <th>evidences/0/evidence_id</th>
+      <th>evidences/0/evidence_label</th>
+      <th>evidences/0/article</th>
+      <th>evidences/0/evidence</th>
+      <th>evidences/0/entropy</th>
+      <th>evidences/0/votes/0</th>
+      <th>evidences/0/votes/1</th>
+      <th>...</th>
+      <th>evidences/4/evidence_id</th>
+      <th>evidences/4/evidence_label</th>
+      <th>evidences/4/article</th>
+      <th>evidences/4/evidence</th>
+      <th>evidences/4/entropy</th>
+      <th>evidences/4/votes/0</th>
+      <th>evidences/4/votes/1</th>
+      <th>evidences/4/votes/2</th>
+      <th>evidences/4/votes/3</th>
+      <th>evidences/4/votes/4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>0</td>
+      <td>Global warming is driving polar bears toward e...</td>
+      <td>SUPPORTS</td>
+      <td>Extinction risk from global warming:170</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>Extinction risk from global warming</td>
+      <td>"Recent Research Shows Human Activity Driving ...</td>
+      <td>0.693147</td>
+      <td>SUPPORTS</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>...</td>
+      <td>Polar bear:1328</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>Polar bear</td>
+      <td>"Bear hunting caught in global warming debate".</td>
+      <td>0.693147</td>
+      <td>SUPPORTS</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>5</td>
+      <td>The sun has gone into ‘lockdown’ which could c...</td>
+      <td>SUPPORTS</td>
+      <td>Famine:386</td>
+      <td>SUPPORTS</td>
+      <td>Famine</td>
+      <td>The current consensus of the scientific commun...</td>
+      <td>0.000000</td>
+      <td>SUPPORTS</td>
+      <td>SUPPORTS</td>
+      <td>...</td>
+      <td>Winter:5</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>Winter</td>
+      <td>In many regions, winter is associated with sno...</td>
+      <td>0.693147</td>
+      <td>REFUTES</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>6</td>
+      <td>The polar bear population has been growing.</td>
+      <td>REFUTES</td>
+      <td>Polar bear:1332</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>Polar bear</td>
+      <td>"Ask the experts: Are polar bear populations i...</td>
+      <td>0.693147</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>REFUTES</td>
+      <td>...</td>
+      <td>Polar bear:61</td>
+      <td>REFUTES</td>
+      <td>Polar bear</td>
+      <td>Of the 19 recognized polar bear subpopulations...</td>
+      <td>0.000000</td>
+      <td>REFUTES</td>
+      <td>REFUTES</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>9</td>
+      <td>Ironic' study finds more CO2 has slightly cool...</td>
+      <td>REFUTES</td>
+      <td>Atmosphere of Mars:131</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>Atmosphere of Mars</td>
+      <td>CO2 in the mesosphere acts as a cooling agent ...</td>
+      <td>0.693147</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>SUPPORTS</td>
+      <td>...</td>
+      <td>Carbon dioxide:191</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>Carbon dioxide</td>
+      <td>Less energy reaches the upper atmosphere, whic...</td>
+      <td>0.000000</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>10</td>
+      <td>Human additions of CO2 are in the margin of er...</td>
+      <td>REFUTES</td>
+      <td>Carbon dioxide in Earth's atmosphere:140</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>Carbon dioxide in Earth's atmosphere</td>
+      <td>While CO 2 absorption and release is always ha...</td>
+      <td>0.693147</td>
+      <td>NOT_ENOUGH_INFO</td>
+      <td>REFUTES</td>
+      <td>...</td>
+      <td>Sea:226</td>
+      <td>REFUTES</td>
+      <td>Sea</td>
+      <td>More recently, anthropogenic activities have s...</td>
+      <td>0.000000</td>
+      <td>REFUTES</td>
+      <td>REFUTES</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table>
+<p>5 rows × 53 columns</p>
+</div>
+    <div class="colab-df-buttons">
+
+  <div class="colab-df-container">
+    <button class="colab-df-convert" onclick="convertToInteractive('df-027e02c1-496a-4d5d-88db-0dc0db98601f')"
+            title="Convert this dataframe to an interactive table."
+            style="display:none;">
+
+  <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960">
+    <path d="M120-120v-720h720v720H120Zm60-500h600v-160H180v160Zm220 220h160v-160H400v160Zm0 220h160v-160H400v160ZM180-400h160v-160H180v160Zm440 0h160v-160H620v160ZM180-180h160v-160H180v160Zm440 0h160v-160H620v160Z"/>
+  </svg>
+    </button>
+
+  <style>
+    .colab-df-container {
+      display:flex;
+      gap: 12px;
+    }
+
+    .colab-df-convert {
+      background-color: #E8F0FE;
+      border: none;
+      border-radius: 50%;
+      cursor: pointer;
+      display: none;
+      fill: #1967D2;
+      height: 32px;
+      padding: 0 0 0 0;
+      width: 32px;
+    }
+
+    .colab-df-convert:hover {
+      background-color: #E2EBFA;
+      box-shadow: 0px 1px 2px rgba(60, 64, 67, 0.3), 0px 1px 3px 1px rgba(60, 64, 67, 0.15);
+      fill: #174EA6;
+    }
+
+    .colab-df-buttons div {
+      margin-bottom: 4px;
+    }
+
+    [theme=dark] .colab-df-convert {
+      background-color: #3B4455;
+      fill: #D2E3FC;
+    }
+
+    [theme=dark] .colab-df-convert:hover {
+      background-color: #434B5C;
+      box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15);
+      filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.3));
+      fill: #FFFFFF;
+    }
+  </style>
+
+    <script>
+      const buttonEl =
+        document.querySelector('#df-027e02c1-496a-4d5d-88db-0dc0db98601f button.colab-df-convert');
+      buttonEl.style.display =
+        google.colab.kernel.accessAllowed ? 'block' : 'none';
+
+      async function convertToInteractive(key) {
+        const element = document.querySelector('#df-027e02c1-496a-4d5d-88db-0dc0db98601f');
+        const dataTable =
+          await google.colab.kernel.invokeFunction('convertToInteractive',
+                                                    [key], {});
+        if (!dataTable) return;
+
+        const docLinkHtml = 'Like what you see? Visit the ' +
+          '<a target="_blank" href=https://colab.research.google.com/notebooks/data_table.ipynb>data table notebook</a>'
+          + ' to learn more about interactive tables.';
+        element.innerHTML = '';
+        dataTable['output_type'] = 'display_data';
+        await google.colab.output.renderOutput(dataTable, element);
+        const docLink = document.createElement('div');
+        docLink.innerHTML = docLinkHtml;
+        element.appendChild(docLink);
+      }
+    </script>
+  </div>
+
+
+    <div id="df-e1d98b70-7c3f-41c3-88dc-54541a1f9316">
+      <button class="colab-df-quickchart" onclick="quickchart('df-e1d98b70-7c3f-41c3-88dc-54541a1f9316')"
+                title="Suggest charts"
+                style="display:none;">
+
+<svg xmlns="http://www.w3.org/2000/svg" height="24px"viewBox="0 0 24 24"
+     width="24px">
+    <g>
+        <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z"/>
+    </g>
+</svg>
+      </button>
+
+<style>
+  .colab-df-quickchart {
+      --bg-color: #E8F0FE;
+      --fill-color: #1967D2;
+      --hover-bg-color: #E2EBFA;
+      --hover-fill-color: #174EA6;
+      --disabled-fill-color: #AAA;
+      --disabled-bg-color: #DDD;
+  }
+
+  [theme=dark] .colab-df-quickchart {
+      --bg-color: #3B4455;
+      --fill-color: #D2E3FC;
+      --hover-bg-color: #434B5C;
+      --hover-fill-color: #FFFFFF;
+      --disabled-bg-color: #3B4455;
+      --disabled-fill-color: #666;
+  }
+
+  .colab-df-quickchart {
+    background-color: var(--bg-color);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    display: none;
+    fill: var(--fill-color);
+    height: 32px;
+    padding: 0;
+    width: 32px;
+  }
+
+  .colab-df-quickchart:hover {
+    background-color: var(--hover-bg-color);
+    box-shadow: 0 1px 2px rgba(60, 64, 67, 0.3), 0 1px 3px 1px rgba(60, 64, 67, 0.15);
+    fill: var(--button-hover-fill-color);
+  }
+
+  .colab-df-quickchart-complete:disabled,
+  .colab-df-quickchart-complete:disabled:hover {
+    background-color: var(--disabled-bg-color);
+    fill: var(--disabled-fill-color);
+    box-shadow: none;
+  }
+
+  .colab-df-spinner {
+    border: 2px solid var(--fill-color);
+    border-color: transparent;
+    border-bottom-color: var(--fill-color);
+    animation:
+      spin 1s steps(1) infinite;
+  }
+
+  @keyframes spin {
+    0% {
+      border-color: transparent;
+      border-bottom-color: var(--fill-color);
+      border-left-color: var(--fill-color);
+    }
+    20% {
+      border-color: transparent;
+      border-left-color: var(--fill-color);
+      border-top-color: var(--fill-color);
+    }
+    30% {
+      border-color: transparent;
+      border-left-color: var(--fill-color);
+      border-top-color: var(--fill-color);
+      border-right-color: var(--fill-color);
+    }
+    40% {
+      border-color: transparent;
+      border-right-color: var(--fill-color);
+      border-top-color: var(--fill-color);
+    }
+    60% {
+      border-color: transparent;
+      border-right-color: var(--fill-color);
+    }
+    80% {
+      border-color: transparent;
+      border-right-color: var(--fill-color);
+      border-bottom-color: var(--fill-color);
+    }
+    90% {
+      border-color: transparent;
+      border-bottom-color: var(--fill-color);
+    }
+  }
+</style>
+
+      <script>
+        async function quickchart(key) {
+          const quickchartButtonEl =
+            document.querySelector('#' + key + ' button');
+          quickchartButtonEl.disabled = true;  // To prevent multiple clicks.
+          quickchartButtonEl.classList.add('colab-df-spinner');
+          try {
+            const charts = await google.colab.kernel.invokeFunction(
+                'suggestCharts', [key], {});
+          } catch (error) {
+            console.error('Error during call to suggestCharts:', error);
+          }
+          quickchartButtonEl.classList.remove('colab-df-spinner');
+          quickchartButtonEl.classList.add('colab-df-quickchart-complete');
+        }
+        (() => {
+          let quickchartButtonEl =
+            document.querySelector('#df-e1d98b70-7c3f-41c3-88dc-54541a1f9316 button');
+          quickchartButtonEl.style.display =
+            google.colab.kernel.accessAllowed ? 'block' : 'none';
+        })();
+      </script>
+    </div>
+
+    </div>
+  </div>
+
+</div>
+</div>
+<div class="cell code" data-execution_count="4"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}"
+id="jdC1nCxm9DsO" data-outputId="7a28e917-9aab-481f-acf3-9a6a4276e5e5">
+<div class="sourceCode" id="cb5"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> nltk</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> nltk.tokenize <span class="im">import</span> word_tokenize</span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> nltk.corpus <span class="im">import</span> stopwords</span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a><span class="co"># Download resources (run once)</span></span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a>nltk.download(<span class="st">&#39;punkt&#39;</span>)</span>
+<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a>nltk.download(<span class="st">&#39;stopwords&#39;</span>)</span>
+<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a>nltk.download(<span class="st">&#39;punkt_tab&#39;</span>) <span class="co"># Download punkt_tab resource</span></span>
+<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-11"><a href="#cb5-11" aria-hidden="true" tabindex="-1"></a><span class="co"># define a function to do all tokenization, Lowercasing and removing stopwords:</span></span>
+<span id="cb5-12"><a href="#cb5-12" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> preprocess_text(text):</span>
+<span id="cb5-13"><a href="#cb5-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-14"><a href="#cb5-14" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Handle missing or non-string values</span></span>
+<span id="cb5-15"><a href="#cb5-15" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> <span class="kw">not</span> <span class="bu">isinstance</span>(text, <span class="bu">str</span>):</span>
+<span id="cb5-16"><a href="#cb5-16" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> []</span>
+<span id="cb5-17"><a href="#cb5-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-18"><a href="#cb5-18" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Tokenization</span></span>
+<span id="cb5-19"><a href="#cb5-19" aria-hidden="true" tabindex="-1"></a>    tokens <span class="op">=</span> word_tokenize(text)</span>
+<span id="cb5-20"><a href="#cb5-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-21"><a href="#cb5-21" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Lowercasing</span></span>
+<span id="cb5-22"><a href="#cb5-22" aria-hidden="true" tabindex="-1"></a>    tokens <span class="op">=</span> [word.lower() <span class="cf">for</span> word <span class="kw">in</span> tokens]</span>
+<span id="cb5-23"><a href="#cb5-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-24"><a href="#cb5-24" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Remove stopwords and keep only alphabetic words</span></span>
+<span id="cb5-25"><a href="#cb5-25" aria-hidden="true" tabindex="-1"></a>    stop_words <span class="op">=</span> <span class="bu">set</span>(stopwords.words(<span class="st">&#39;english&#39;</span>))</span>
+<span id="cb5-26"><a href="#cb5-26" aria-hidden="true" tabindex="-1"></a>    filtered_tokens <span class="op">=</span> [word <span class="cf">for</span> word <span class="kw">in</span> tokens <span class="cf">if</span> word.isalpha() <span class="kw">and</span> word <span class="kw">not</span> <span class="kw">in</span> stop_words]</span>
+<span id="cb5-27"><a href="#cb5-27" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-28"><a href="#cb5-28" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> filtered_tokens</span>
+<span id="cb5-29"><a href="#cb5-29" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-30"><a href="#cb5-30" aria-hidden="true" tabindex="-1"></a><span class="co"># Apply only to text (string/object) columns, keep originals intact</span></span>
+<span id="cb5-31"><a href="#cb5-31" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> col <span class="kw">in</span> df.select_dtypes(include<span class="op">=</span>[<span class="st">&quot;object&quot;</span>]).columns:</span>
+<span id="cb5-32"><a href="#cb5-32" aria-hidden="true" tabindex="-1"></a>    df[<span class="ss">f&quot;</span><span class="sc">{</span>col<span class="sc">}</span><span class="ss">_processed&quot;</span>] <span class="op">=</span> df[col].<span class="bu">apply</span>(preprocess_text)</span>
+<span id="cb5-33"><a href="#cb5-33" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-34"><a href="#cb5-34" aria-hidden="true" tabindex="-1"></a><span class="co"># Show a preview</span></span>
+<span id="cb5-35"><a href="#cb5-35" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df.head())</span></code></pre></div>
+<div class="output stream stderr">
+<pre><code>[nltk_data] Downloading package punkt to /root/nltk_data...
+[nltk_data]   Unzipping tokenizers/punkt.zip.
+[nltk_data] Downloading package stopwords to /root/nltk_data...
+[nltk_data]   Unzipping corpora/stopwords.zip.
+[nltk_data] Downloading package punkt_tab to /root/nltk_data...
+[nltk_data]   Unzipping tokenizers/punkt_tab.zip.
+</code></pre>
+</div>
+<div class="output stream stdout">
+<pre><code>   claim_id                                              claim claim_label  \
+0         0  Global warming is driving polar bears toward e...    SUPPORTS   
+1         5  The sun has gone into ‘lockdown’ which could c...    SUPPORTS   
+2         6        The polar bear population has been growing.     REFUTES   
+3         9  Ironic&#39; study finds more CO2 has slightly cool...     REFUTES   
+4        10  Human additions of CO2 are in the margin of er...     REFUTES   
+
+                    evidences/0/evidence_id evidences/0/evidence_label  \
+0   Extinction risk from global warming:170            NOT_ENOUGH_INFO   
+1                                Famine:386                   SUPPORTS   
+2                           Polar bear:1332            NOT_ENOUGH_INFO   
+3                    Atmosphere of Mars:131            NOT_ENOUGH_INFO   
+4  Carbon dioxide in Earth&#39;s atmosphere:140            NOT_ENOUGH_INFO   
+
+                    evidences/0/article  \
+0   Extinction risk from global warming   
+1                                Famine   
+2                            Polar bear   
+3                    Atmosphere of Mars   
+4  Carbon dioxide in Earth&#39;s atmosphere   
+
+                                evidences/0/evidence  evidences/0/entropy  \
+0  &quot;Recent Research Shows Human Activity Driving ...             0.693147   
+1  The current consensus of the scientific commun...             0.000000   
+2  &quot;Ask the experts: Are polar bear populations i...             0.693147   
+3  CO2 in the mesosphere acts as a cooling agent ...             0.693147   
+4  While CO 2 absorption and release is always ha...             0.693147   
+
+  evidences/0/votes/0 evidences/0/votes/1  ... evidences/3/votes/4_processed  \
+0            SUPPORTS     NOT_ENOUGH_INFO  ...                            []   
+1            SUPPORTS            SUPPORTS  ...                            []   
+2     NOT_ENOUGH_INFO             REFUTES  ...                            []   
+3     NOT_ENOUGH_INFO            SUPPORTS  ...                            []   
+4     NOT_ENOUGH_INFO             REFUTES  ...                            []   
+
+  evidences/4/evidence_id_processed evidences/4/evidence_label_processed  \
+0                           [polar]                                   []   
+1                                []                                   []   
+2                           [polar]                            [refutes]   
+3                          [carbon]                                   []   
+4                                []                            [refutes]   
+
+  evidences/4/article_processed  \
+0                 [polar, bear]   
+1                      [winter]   
+2                 [polar, bear]   
+3             [carbon, dioxide]   
+4                         [sea]   
+
+                      evidences/4/evidence_processed  \
+0   [bear, hunting, caught, global, warming, debate]   
+1  [many, regions, winter, associated, snow, free...   
+2  [recognized, polar, bear, subpopulations, one,...   
+3  [less, energy, reaches, upper, atmosphere, the...   
+4  [recently, anthropogenic, activities, steadily...   
+
+  evidences/4/votes/0_processed evidences/4/votes/1_processed  \
+0                    [supports]                            []   
+1                     [refutes]                            []   
+2                     [refutes]                     [refutes]   
+3                            []                            []   
+4                     [refutes]                     [refutes]   
+
+   evidences/4/votes/2_processed evidences/4/votes/3_processed  \
+0                             []                            []   
+1                             []                            []   
+2                             []                            []   
+3                             []                            []   
+4                             []                            []   
+
+  evidences/4/votes/4_processed  
+0                            []  
+1                            []  
+2                            []  
+3                            []  
+4                            []  
+
+[5 rows x 100 columns]
+</code></pre>
+</div>
+</div>
+<div class="cell code" data-execution_count="5" id="nDcK0lwO9YeY">
+<div class="sourceCode" id="cb8"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Converts all columns in the pandas DataFrame df to the data type str (string)</span></span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> df.astype(<span class="bu">str</span>)</span></code></pre></div>
+</div>
+<div class="cell code" data-execution_count="6"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}"
+id="2k-sAwD99eC_" data-outputId="5eb6e3ac-7ea3-4cb3-98c5-be3abd94b9d8">
+<div class="sourceCode" id="cb9"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> spacy</span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> spacy <span class="im">import</span> displacy</span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Load the English language model</span></span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>nlp <span class="op">=</span> spacy.load(<span class="st">&#39;en_core_web_sm&#39;</span>)</span>
+<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Define a function for NER</span></span>
+<span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> extract_entities(text):</span>
+<span id="cb9-9"><a href="#cb9-9" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> <span class="kw">not</span> <span class="bu">isinstance</span>(text, <span class="bu">str</span>):</span>
+<span id="cb9-10"><a href="#cb9-10" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> []</span>
+<span id="cb9-11"><a href="#cb9-11" aria-hidden="true" tabindex="-1"></a>    doc <span class="op">=</span> nlp(text)</span>
+<span id="cb9-12"><a href="#cb9-12" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> [(ent.text, ent.label_) <span class="cf">for</span> ent <span class="kw">in</span> doc.ents]</span>
+<span id="cb9-13"><a href="#cb9-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-14"><a href="#cb9-14" aria-hidden="true" tabindex="-1"></a><span class="co"># List of columns for NER process</span></span>
+<span id="cb9-15"><a href="#cb9-15" aria-hidden="true" tabindex="-1"></a>text_columns <span class="op">=</span> [<span class="st">&#39;claim&#39;</span>]  <span class="co"># replace with or add desired columns</span></span>
+<span id="cb9-16"><a href="#cb9-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-17"><a href="#cb9-17" aria-hidden="true" tabindex="-1"></a><span class="co"># Apply NER column by column</span></span>
+<span id="cb9-18"><a href="#cb9-18" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> col <span class="kw">in</span> text_columns:</span>
+<span id="cb9-19"><a href="#cb9-19" aria-hidden="true" tabindex="-1"></a>    df[col <span class="op">+</span> <span class="st">&#39;_entities&#39;</span>] <span class="op">=</span> df[col].astype(<span class="bu">str</span>).<span class="bu">apply</span>(extract_entities)</span>
+<span id="cb9-20"><a href="#cb9-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-21"><a href="#cb9-21" aria-hidden="true" tabindex="-1"></a><span class="co"># Show original columns and their corresponding _entities columns</span></span>
+<span id="cb9-22"><a href="#cb9-22" aria-hidden="true" tabindex="-1"></a>cols_to_show <span class="op">=</span> text_columns <span class="op">+</span> [col <span class="op">+</span> <span class="st">&#39;_entities&#39;</span> <span class="cf">for</span> col <span class="kw">in</span> text_columns]</span>
+<span id="cb9-23"><a href="#cb9-23" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df[cols_to_show].head(<span class="dv">10</span>))</span></code></pre></div>
+<div class="output stream stdout">
+<pre><code>                                               claim  \
+0  Global warming is driving polar bears toward e...   
+1  The sun has gone into ‘lockdown’ which could c...   
+2        The polar bear population has been growing.   
+3  Ironic&#39; study finds more CO2 has slightly cool...   
+4  Human additions of CO2 are in the margin of er...   
+5  They tell us that we are the primary forces co...   
+6  The Great Barrier Reef is experiencing the mos...   
+7  it’s not a pollutant that threatens human civi...   
+8  If CO2 was so terrible for the planet, then in...   
+9  Sea level rise has been slow and a constant, p...   
+
+                                      claim_entities  
+0                                                 []  
+1                                                 []  
+2                                                 []  
+3                    [(Ironic, ORG), (CO2, PRODUCT)]  
+4  [(CO2, PRODUCT), (CO2, PRODUCT), (the last ice...  
+5                                                 []  
+6                                                 []  
+7                                                 []  
+8                    [(CO2, PERSON), (CO2, PRODUCT)]  
+9                                                 []  
+</code></pre>
+</div>
+</div>
+<div class="cell markdown" id="EaCoCTSQKhYf">
+<p>2- Implement PoS tagging to assign appropriate parts of speech to
+different words in the text.</p>
+<p>Analyze the results and provide insights on the named entities and
+their corresponding parts of speech in the Climate Fever dataset.</p>
+</div>
+<div class="cell code" data-execution_count="7"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}"
+id="hiIkRwJY9jX0" data-outputId="d4f36d21-2733-4538-bec0-a12bbac7bd23">
+<div class="sourceCode" id="cb11"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Define a function for POS tagging</span></span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> extract_pos(text):</span>
+<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> <span class="kw">not</span> <span class="bu">isinstance</span>(text, <span class="bu">str</span>):</span>
+<span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span> []</span>
+<span id="cb11-5"><a href="#cb11-5" aria-hidden="true" tabindex="-1"></a>    doc <span class="op">=</span> nlp(text)</span>
+<span id="cb11-6"><a href="#cb11-6" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Return a list of tuples (word, POS tag)</span></span>
+<span id="cb11-7"><a href="#cb11-7" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> [(token.text, token.pos_) <span class="cf">for</span> token <span class="kw">in</span> doc]</span>
+<span id="cb11-8"><a href="#cb11-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-9"><a href="#cb11-9" aria-hidden="true" tabindex="-1"></a><span class="co"># List of columns for POS process</span></span>
+<span id="cb11-10"><a href="#cb11-10" aria-hidden="true" tabindex="-1"></a>text_columns <span class="op">=</span> [<span class="st">&#39;claim&#39;</span>]  <span class="co"># add columns for POS purpose</span></span>
+<span id="cb11-11"><a href="#cb11-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-12"><a href="#cb11-12" aria-hidden="true" tabindex="-1"></a><span class="co"># Apply POS tagging column by column</span></span>
+<span id="cb11-13"><a href="#cb11-13" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> col <span class="kw">in</span> text_columns:</span>
+<span id="cb11-14"><a href="#cb11-14" aria-hidden="true" tabindex="-1"></a>    df[col <span class="op">+</span> <span class="st">&#39;_pos&#39;</span>] <span class="op">=</span> df[col].astype(<span class="bu">str</span>).<span class="bu">apply</span>(extract_pos)</span>
+<span id="cb11-15"><a href="#cb11-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb11-16"><a href="#cb11-16" aria-hidden="true" tabindex="-1"></a><span class="co"># Show original columns and their corresponding _pos columns</span></span>
+<span id="cb11-17"><a href="#cb11-17" aria-hidden="true" tabindex="-1"></a>cols_to_show <span class="op">=</span> text_columns <span class="op">+</span> [col <span class="op">+</span> <span class="st">&#39;_pos&#39;</span> <span class="cf">for</span> col <span class="kw">in</span> text_columns]</span>
+<span id="cb11-18"><a href="#cb11-18" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df[cols_to_show].head(<span class="dv">10</span>))</span></code></pre></div>
+<div class="output stream stdout">
+<pre><code>                                               claim  \
+0  Global warming is driving polar bears toward e...   
+1  The sun has gone into ‘lockdown’ which could c...   
+2        The polar bear population has been growing.   
+3  Ironic&#39; study finds more CO2 has slightly cool...   
+4  Human additions of CO2 are in the margin of er...   
+5  They tell us that we are the primary forces co...   
+6  The Great Barrier Reef is experiencing the mos...   
+7  it’s not a pollutant that threatens human civi...   
+8  If CO2 was so terrible for the planet, then in...   
+9  Sea level rise has been slow and a constant, p...   
+
+                                           claim_pos  
+0  [(Global, ADJ), (warming, NOUN), (is, AUX), (d...  
+1  [(The, DET), (sun, NOUN), (has, AUX), (gone, V...  
+2  [(The, DET), (polar, ADJ), (bear, NOUN), (popu...  
+3  [(Ironic, ADJ), (&#39;, PUNCT), (study, NOUN), (fi...  
+4  [(Human, ADJ), (additions, NOUN), (of, ADP), (...  
+5  [(They, PRON), (tell, VERB), (us, PRON), (that...  
+6  [(The, DET), (Great, PROPN), (Barrier, PROPN),...  
+7  [(it, PRON), (’s, VERB), (not, PART), (a, DET)...  
+8  [(If, SCONJ), (CO2, NOUN), (was, AUX), (so, AD...  
+9  [(Sea, NOUN), (level, NOUN), (rise, NOUN), (ha...  
+</code></pre>
+</div>
+</div>
+<div class="cell code" data-execution_count="15"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;,&quot;height&quot;:87}"
+id="CDiPUD1v9qK7" data-outputId="15009a22-d71b-4ae8-cb13-f2920078da23">
+<div class="sourceCode" id="cb13"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="co"># --- Visualization using displacy for a single example ---</span></span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a><span class="co"># Choose a row to visualize (e.g., the 45th row)</span></span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a>sample_text <span class="op">=</span> df.loc[<span class="dv">45</span>, <span class="st">&#39;claim&#39;</span>]</span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a>doc <span class="op">=</span> nlp(sample_text)</span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a><span class="co"># Visualize Named Entities</span></span>
+<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a>displacy.render(doc, style<span class="op">=</span><span class="st">&#39;ent&#39;</span>, jupyter<span class="op">=</span><span class="va">True</span>)</span></code></pre></div>
+<div class="output display_data">
+<span class="tex2jax_ignore"><div class="entities" style="line-height: 2.5; direction: ltr">
+<mark class="entity" style="background: #7aecec; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
+    Trump
+    <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; vertical-align: middle; margin-left: 0.5rem">ORG</span>
+</mark>
+'s action could push the 
+<mark class="entity" style="background: #ff9561; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
+    Earth
+    <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; vertical-align: middle; margin-left: 0.5rem">LOC</span>
+</mark>
+ over the brink, to become like 
+<mark class="entity" style="background: #9cc9cc; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
+    Venus
+    <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; vertical-align: middle; margin-left: 0.5rem">FAC</span>
+</mark>
+, with a temperature of 
+<mark class="entity" style="background: #e4e7d2; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
+    two hundred and fifty
+    <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; vertical-align: middle; margin-left: 0.5rem">CARDINAL</span>
+</mark>
+ degrees, and raining sulphuric acid.</div></span>
+</div>
+</div>
+<div class="cell markdown" id="Hew96idLKhYf">
+<p>3- Visualize the findings using appropriate graphs, charts, or tables
+to enhance understanding.</p>
+</div>
+<div class="cell code" data-execution_count="9"
+data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;,&quot;height&quot;:528}"
+id="qEAgbl6w9r0X" data-outputId="02434d25-89ff-4c21-93c7-ea1a7f196297">
+<div class="sourceCode" id="cb14"><pre
+class="sourceCode python"><code class="sourceCode python"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="co"># --- Visualization using displacy for POS tags ---</span></span>
+<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a><span class="co"># Choose a row to visualize (e.g., the second row)</span></span>
+<span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>sample_text <span class="op">=</span> df.loc[<span class="dv">1</span>, <span class="st">&#39;claim&#39;</span>]</span>
+<span id="cb14-4"><a href="#cb14-4" aria-hidden="true" tabindex="-1"></a>doc <span class="op">=</span> nlp(sample_text)</span>
+<span id="cb14-5"><a href="#cb14-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb14-6"><a href="#cb14-6" aria-hidden="true" tabindex="-1"></a><span class="co"># Visualize POS tags and dependencies</span></span>
+<span id="cb14-7"><a href="#cb14-7" aria-hidden="true" tabindex="-1"></a>displacy.render(doc, style<span class="op">=</span><span class="st">&#39;dep&#39;</span>, jupyter<span class="op">=</span><span class="va">True</span>)</span></code></pre></div>
+<div class="output display_data">
+<span class="tex2jax_ignore"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" id="ea0721a8942346aabddac4aed1d59306-0" class="displacy" width="2850" height="487.0" direction="ltr" style="max-width: none; height: 487.0px; color: #000000; background: #ffffff; font-family: Arial; direction: ltr">
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="50">The</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="50">DET</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="225">sun</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="225">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="400">has</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="400">AUX</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="575">gone</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="575">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="750">into ‘</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="750">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="925">lockdown’</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="925">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="1100">which</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1100">PRON</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="1275">could</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1275">AUX</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="1450">cause</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1450">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="1625">freezing</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1625">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="1800">weather,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1800">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="1975">earthquakes</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1975">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="2150">and</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="2150">CCONJ</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="2325">famine,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="2325">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="2500">say</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="2500">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="397.0">
+    <tspan class="displacy-word" fill="currentColor" x="2675">scientists</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="2675">NOUN</tspan>
+</text>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-0" stroke-width="2px" d="M70,352.0 C70,264.5 210.0,264.5 210.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-0" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">det</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M70,354.0 L62,342.0 78,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-1" stroke-width="2px" d="M245,352.0 C245,177.0 565.0,177.0 565.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-1" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M245,354.0 L237,342.0 253,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-2" stroke-width="2px" d="M420,352.0 C420,264.5 560.0,264.5 560.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-2" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">aux</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M420,354.0 L412,342.0 428,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-3" stroke-width="2px" d="M595,352.0 C595,2.0 2500.0,2.0 2500.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-3" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M595,354.0 L587,342.0 603,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-4" stroke-width="2px" d="M595,352.0 C595,264.5 735.0,264.5 735.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-4" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M735.0,354.0 L743.0,342.0 727.0,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-5" stroke-width="2px" d="M770,352.0 C770,264.5 910.0,264.5 910.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-5" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M910.0,354.0 L918.0,342.0 902.0,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-6" stroke-width="2px" d="M1120,352.0 C1120,177.0 1440.0,177.0 1440.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-6" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1120,354.0 L1112,342.0 1128,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-7" stroke-width="2px" d="M1295,352.0 C1295,264.5 1435.0,264.5 1435.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-7" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">aux</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1295,354.0 L1287,342.0 1303,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-8" stroke-width="2px" d="M945,352.0 C945,89.5 1445.0,89.5 1445.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-8" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">relcl</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1445.0,354.0 L1453.0,342.0 1437.0,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-9" stroke-width="2px" d="M1645,352.0 C1645,264.5 1785.0,264.5 1785.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-9" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">amod</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1645,354.0 L1637,342.0 1653,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-10" stroke-width="2px" d="M1470,352.0 C1470,177.0 1790.0,177.0 1790.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-10" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">dobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1790.0,354.0 L1798.0,342.0 1782.0,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-11" stroke-width="2px" d="M1820,352.0 C1820,264.5 1960.0,264.5 1960.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-11" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">conj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1960.0,354.0 L1968.0,342.0 1952.0,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-12" stroke-width="2px" d="M1995,352.0 C1995,264.5 2135.0,264.5 2135.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-12" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">cc</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M2135.0,354.0 L2143.0,342.0 2127.0,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-13" stroke-width="2px" d="M1995,352.0 C1995,177.0 2315.0,177.0 2315.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-13" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">conj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M2315.0,354.0 L2323.0,342.0 2307.0,342.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ea0721a8942346aabddac4aed1d59306-0-14" stroke-width="2px" d="M2520,352.0 C2520,264.5 2660.0,264.5 2660.0,352.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ea0721a8942346aabddac4aed1d59306-0-14" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M2660.0,354.0 L2668.0,342.0 2652.0,342.0" fill="currentColor"/>
+</g>
+</svg></span>
+</div>
+</div>
+<div class="cell markdown" id="f8UU2VKlKhYg">
+<p>4- Summarize your approach, the findings, and any challenges faced
+during the process.</p>
+<p>Note: You are free to use any additional techniques or libraries to
+enhance the NER and PoS tagging tasks. Make sure to provide proper
+documentation and references for any external resources used.</p>
+</div>
+<div class="cell markdown" id="E0B76PHlKhYg">
+<h1 id="approach-summary">Approach Summary</h1>
+<p>I started by using the Kaggle library to import the dataset into my
+workspace. To get familiar with the dataset, I first explored the CSV
+file in detail, reviewing how the information was arranged in rows and
+columns, and identifying the key features that would be relevant for
+Natural Language Processing (NLP) tasks. This initial inspection helped
+me understand the structure of the data and determine what preprocessing
+steps were necessary.</p>
+<p>Next, I prepared the dataset for NER (Named Entity Recognition) and
+POS (Part-of-Speech) tagging. The preprocessing involved several steps
+in just one function:</p>
+<p>Tokenization: splitting the text into smaller units (tokens) such as
+words or punctuation marks.</p>
+<p>Lowercasing: converting all text to lowercase to ensure consistency
+and reduce redundancy caused by case differences.</p>
+<p>Stop-word removal: filtering out common words (such as “the,” “is,”
+or “and”) that do not contribute significant meaning to the NLP
+models.</p>
+<p>Once the dataset was cleaned and structured, I designed a workflow to
+selectively apply NER and POS tagging only to the columns most relevant
+to the task. This selective approach helped reduce unnecessary
+processing and improved efficiency.</p>
+<p>Finally, to make the results more interpretable, I used spaCy’s
+displacy visualization tool. This allowed me to graphically illustrate
+how the text was parsed, showing entities, dependencies, and
+part-of-speech tags in a clear and visual format. These visualizations
+were useful for validating the correctness of preprocessing steps and
+understanding how the model interprets the data.</p>
+<h1 id="findings-and-challenges">Findings and Challenges</h1>
+<ul>
+<li><p>Python version compatibility: Different versions of Python worked
+inconsistently with certain libraries. To resolve this, I switched from
+Visual Studio to Google Colab, which provided a more stable and
+compatible environment.</p></li>
+<li><p>Tokenization and reusability: Preparing the dataset required
+building a reusable pipeline. To achieve this, I designed functions in
+an object-oriented manner, which made the code more modular and easier
+to update. Since NLP algorithms often need fine-tuning, this approach
+helps reduce the amount of rework when adjustments are
+required.</p></li>
+<li><p>Working with raw documents: One open question that came in my
+mind is how to handle documents from reference books or other sources.
+Specifically, how can these documents be preprocessed and converted into
+a CSV format so they can be more easily used in NLP tasks? While the
+course mainly works with ready-to-use datasets, handling raw text
+sources seems like a valuable skill.</p></li>
+<li><p>Efficiency in NER: Initially, I applied NER to the entire
+dataset, which was highly computationally time-consuming. To optimize
+performance, I created a list of target columns and applied NER only to
+those, which significantly reduced processing time. A key question here
+is whether this selective approach is considered a best practice for
+implementing NER.</p></li>
+</ul>
+</div>
+<section id="required-format" class="cell markdown" id="XDtZIU-rKhYg">
+<h1>Required Format</h1>
+<p>To prepare for assignment submission, convert your Jupyter Notebook
+to a single, clean PDF or HTML document file. Your deliverable should
+contain your implementations of the tasks above, as well as any
+additional comments or observations you may have. Please ensure the PDF
+or MS Word document displays the code and output appropriately.</p>
+</section>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"0357a45f23a943f08700f7f9af191ee6","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
