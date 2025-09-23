@@ -1,0 +1,1096 @@
+CHAPTER 1
+Why have standards?
+The purpose of standards is to provide a common reference that facilitates consistency and
+conformity in the construction industry as well as the flow of goods and services. By specifying
+that construction methods or materials must meet or exceed a given standard, users can take
+advantage of years of technical research that went into the development of the standard without
+needing the technical expertise necessary to fully understand the standard.
+There is a long-standing relationship between building codes and standards that address design,
+installation, testing and materials related to building construction. Building regulation cannot be
+effectively carried out without such standards. The critical role of standards in the building
+regulatory process is such that the standards are an extension of the code requirements and are
+therefore equally enforceable. Consequently, standards that are referenced in codes are
+expected to be as clear, direct and enforceable as code requirements that are primary text. In
+recognition of this need, the International Code Council (ICC) has included in Council Policy 28
+(CP 28) Code Development criteria that standards must meet in order to be referenced in the ICodes.
+Standards and their relationship to the code
+A standard is a published technical document that represents a stakeholder consensus on how a
+material, product or assembly is to be designed, manufactured, tested or installed so that a
+specific level of performance is achieved. Standards are primarily developed by industry
+organizations and professional associations incorporating the views of interested parties
+(stakeholders). A standard is developed in response to an identified need and typically contains
+information which is based on experience, knowledge, testing, analyses and research.
+A standard is not intended to be used as primary law but as a referenced authoritative resource.
+While a model code becomes law when it is adopted by a jurisdiction, a standard becomes law
+to the extent to which it is referenced in an adopted model code. When a standard that is
+referenced in the code (first-tier reference) in turn references another standard (second-tier
+reference), the second-tier referenced standard is equally applicable, again, to the prescribed
+extent of the reference to it in the first-tier reference. This trail of applicability extends
+throughout all tiers of references.
+A model code establishes minimum quality and performance criteria for the materials and
+methods regulated by the code. The I-Codes rely on referenced standards to provide these
+criteria. The referenced standards are an enforceable extension of the code. Standards
+supplement the codes by setting forth conditions or requirements that a material or method 
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 7
+must meet, thereby providing an acceptable level of safety for building occupants. To comply
+with the provisions of the model code, a method or material must meet the requirements of the
+referenced standards.
+When the code has specific requirements that vary from those found in a referenced standard,
+the requirements of the code take precedence over the standard. If the code is silent on a
+particular issue, then the provisions in the standard are applicable to the prescribed extent of the
+reference to that standard.
+For example, the following extract from the 2021 International Mechanical Code cites how each
+type of furnace shall be tested, as follows:
+“918.1 Forced-air furnaces. Oil-fired furnaces shall be tested in accordance with UL 727.
+Electric furnaces shall be tested in accordance with UL 1995 or UL/CSA 60335-2-40. Solid
+fuel furnaces shall be tested in accordance with UL 391. Forced-air furnaces shall be
+installed in accordance with the listings and the manufacturer’s instructions.”
+Types of standards
+Standards address various requirements. A standard addresses aspects of a specific construction
+activity, whereas codes are typically more general and global in nature. One should not be
+confused by some standards which use the word "code" in their titles. The scope quickly reveals
+that such documents function as referenced standards. Other such documents are referred to
+as “guides,” but serve a similar function within the context of the reference within the code. It
+should be recognized that a title of a document suitable as a reference standard may not
+necessarily have the word “standard” in the title by nature of the scope and purpose of the
+document.
+A brief description of these types of standards is given along with an example of each type of
+standard, the code and code section in which it is referenced. Such other consensus developed
+document titles include: “Performance,” “Specification,” “Guide,” etc. as shown below in Table
+1. Note that standards can be assigned to more than one category as shown in the table below. 
+Section 3.6 of Council Policy 28, Code Development
+What is Section 3.6?
+The following is reprinted from Council Policy 28 Code Development (CP 28) dated January 22,
+2019. It should be noted that, as with all ICC Council Policies, CP 28 is periodically reviewed and
+updated by the Code Council Board of Directors see Page 3 for link to CP 28.
+3.6 Referenced Standards: In order for a standard to be considered for reference or to continue to be
+referenced by the Codes, a standard shall meet the following criteria:
+3.6.1 Code References:
+3.6.1.1 The standard, including title and date, and the manner in which it is to be utilized
+shall be specifically referenced in the Code text.
+3.6.1.2 The need for the standard to be referenced shall be established.
+3.6.2 Standard Content:
+3.6.2.1 A standard or portions of a standard intended to be enforced shall be written in
+mandatory language.
+3.6.2.2 The standard shall be appropriate for the subject covered.
+3.6.2.3 All terms shall be defined when they deviate from an ordinarily accepted meaning
+or a dictionary definition.
+3.6.2.4 The scope or application of a standard shall be clearly described.
+3.6.2.5 The standard shall not have the effect of requiring proprietary materials.
+3.6.2.6 The standard shall not prescribe a proprietary agency for quality control or testing.
+3.6.2.7 The test standard shall describe, in detail, preparation of the test sample, sample
+selection or both.
+3.6.2.8 The test standard shall prescribe the reporting format for the test results. The
+format shall identify the key performance criteria for the element(s) tested.
+3.6.2.9 The measure of performance for which the test is conducted shall be clearly
+defined in either the test standard or in Code text.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 10
+3.6.2.10 The standard shall not state that its provisions shall govern whenever the
+referenced standard is in conflict with the requirements of the referencing Code.
+3.6.2.11 The preface to the standard shall announce that the standard is promulgated
+according to a consensus procedure.
+3.6.3 Standard Promulgation:
+3.6.3.1 Code change proposals with corresponding changes to the code text which include
+a reference to a proposed new standard or a proposed update of an existing referenced
+standard shall comply with this section.
+3.6.3.1.1 Proposed New Standards. In order for a new standard to be considered
+for reference by the Code, such standard shall be submitted in at least a consensus
+draft form in accordance with Section 3.4. If the proposed new standard is not
+submitted in at least consensus draft form, the code change proposal shall be
+considered incomplete and shall not be processed. The code change proposal shall
+be considered at the Committee Action Hearing by the applicable code
+development committee responsible for the corresponding proposed changes to
+the code text. If the committee action at the Committee Action Hearing is either
+As Submitted or As Modified and the standard is not completed, the code change
+proposal shall automatically be placed on the Public Comment Agenda with the
+recommendation stating that in order for the public comment to be considered,
+the new standard shall be completed and readily available prior to the Public
+Comment Hearing. If the committee action at the Committee Action Hearing is
+Disapproval, further consideration on the Public Comment Agenda shall include a
+recommendation stating that in order for the public comment to be considered,
+the new standard shall be completed and readily available prior to the Public
+Comment Hearing.
+3.6.3.1.2 Update of Existing Standards. Code change proposals which include
+technical revisions to the code text to coordinate with a proposed update of an
+existing referenced standard shall include the submission of the proposed update
+to the standard in at least a consensus draft form in accordance with Section 3.4.
+If the proposed update of the existing standard is not submitted in at least
+consensus draft form, the code change proposal shall be considered incomplete
+and shall not be processed. The code change proposal, including the update of the
+existing referenced standard, shall be considered at the Committee Action
+Hearing by the applicable code development committee responsible for the
+corresponding changes to the code text. If the committee action at the Committee
+Action Hearing is either As Submitted or As Modified and the updated standard is
+not completed, the code change proposal shall automatically be placed on the
+Public Comment Agenda with the recommendation stating that in order for the
+public comment to be considered, the updated standard shall be completed and
+readily available prior to the Public Comment Hearing. If the committee action at
+the Committee Action Hearing is Disapproval, further consideration on the Public
+Comment Agenda shall include a recommendation stating that in order for the 
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 11
+public comment to be considered, the updated standard shall be completed and
+readily available prior to the Public Comment Hearing.
+Updating of standards without corresponding code text changes shall be
+accomplished administratively in accordance with Section 4.6.
+3.6.3.2 The standard shall be developed and maintained through a consensus process such
+as ASTM or ANSI.
+4.6 Updating Standards Referenced in the Codes: Standards referenced by the Codes that do not
+require coordination with a code change proposal to the code text shall be updated
+administratively by the Administrative Code Development Committee in accordance with these full
+procedures except that the deadline for availability of the updated standard and receipt by the
+Secretariat shall be December 1 of the third year of each code cycle. The published version of the
+new edition of the Code which references the standard will refer to the updated edition of the
+standard. If the standard is not available by the December 1st deadline, the edition of the standard
+as referenced by the newly published Code shall revert back to the reference contained in the
+previous edition and an errata to the Code issued. Multiple standards to be updated may be
+included in a single proposal.
+4.6.1 Updating ICC Standards Referenced in the Codes. All standards developed by ICC
+and referenced by the Codes which are undergoing an update shall be announced by ICC
+to allow stakeholders to participate in the update process. Where the updated standard
+is completed and available by December 1 of the third year of the code cycle, the published
+version of the new edition of the Code which references the standard shall refer to the
+updated edition of the standard. If the standard is not available by the December 1st
+deadline, the edition of the standard as referenced by the newly published Code shall
+revert back to the reference contained in the previous edition and an errata to the Code
+issued.
+Purpose of Section 3.6
+Together with standards, codes establish a mechanism for effective regulation of building
+construction. When codes are adopted by units of government (i.e., towns, cities, counties,
+states, or other agencies or jurisdictions with regulatory authority), they provide the legal
+framework for regulations intended to promote public health, safety and welfare in the built
+environment. A code sets forth the provisions for administration and enforcement; it also
+addresses the multiplicity of authoritative resources on a subject, some of which are standards.
+What a code cannot readily do, however, is address in detail every specialty area of construction
+methods and materials. Instead, codes rely on referenced consensus standards to provide clear
+and detailed enforceable rules for specialty areas within the construction process. As an example,
+Chapter 15 of the 2021 International Mechanical Code is only 13 pages long, but it lists by number
+and title more than 255 standards issued by 25 different organizations. The cumulative text of
+these documents would outweigh the code itself many times over.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 12
+Standards are vital to the model code system, but their role must be clearly understood.
+Standards are typically referenced by the model code and are intended to set forth expert,
+detailed procedures for the design, manufacture or installation of a specialized material or
+method.
+Recognizing the integral part that referenced standards play in the I-Codes, the Code Council
+Board of Directors incorporated criteria for referenced standards into CP 28 Code Development.
+The policy dictates that all standards adopted into the codes must be: suitable for the purpose
+for which they are referenced; technically accurate; and developed according to a consensus
+process that provides the opportunity for interested parties to have their views considered. It
+also promotes the overall quality of the I-Codes and heightens their enforceability in situations
+where standard’s provisions are applicable. As noted above in the extract of Section 3.6, this
+policy is comprised of 15 criteria which focus on a standard's application, content and
+promulgation method.
+Each new referenced standard proposed for inclusion in the I-Codes is subject to review for
+compliance with the criteria as part of the open process of code development. Anyone can offer
+their views on the development of the standard as part of the code development hearing process.
+The product of this effort will be the continued quality of the I-Codes, offering code officials and
+the general public reasonable and enforceable building regulations for protection of the public
+health, safety and welfare in the built environment.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 13
+Chapter 2
+Development of standards
+Code change proposals, which include standards that were not previously referenced in the ICodes, are required to comply with multiple provisions of ICC’s Council Policy 28 (CP 28) entitled
+“Code Development.” The purpose of CP 28 is to create a level playing field by which all new
+standards are evaluated as reference documents in the I-Codes as well as to ensure consistency
+in the purpose and content of the proposed new reference standard. This also assures the overall
+quality and credibility of the I-Codes.
+Application of CP 28, Section 3.6
+All of the criteria which make up Section 3.6 of the CP 28 are equally important. However, two
+subjects continue to dominate as recurring issues of non-compliance when new standards are
+being proposed for reference in the I-Codes. There is the requirement that standards be
+developed through a consensus process (Section 3.6.3.2) and that the standards be written in
+mandatory language (Section 3.6.2.1). The following information and examples focus on the
+application of these two criteria.
+Consensus Promulgation Process
+Standard Promulgation and Announced Promulgation
+CP 28, Section 3.6.3.2, The standard shall be developed and maintained through a consensus
+process such as ASTM or ANSI.
+CP 28, Section 3.6.2.11, The preface to the standard shall announce that the standard is
+promulgated according to a consensus procedure.
+Application
+The use of a consensus process is vital to ensuring that a standard truly represents the most
+current technical information, proven industry best practices and validated safety and
+performance requirements for the materials, products and/or systems covered by the standard.
+A consensus process is fundamentally a formal process for considering and addressing all
+stakeholder viewpoints, with regular updating and information availability, as well as a formal
+appeals process. “Consensus means substantial agreement has been reached by directly and
+materially affected interests. This signifies the concurrence of more than a simple majority, but
+not necessarily unanimity. Consensus requires that all views and objections be considered, and 
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 14
+that an effort be made toward their resolution.” (Source: ANSI Essential Requirements) These and
+other features are particularly significant in dealing with regulatory documents.
+Eight key elements of any consensus process are provisions for an open and inclusive process by
+which the standard is developed and updated, timely notification, resolution of concerns,
+published procedures, an appeals process, the balancing of stakeholder interests, maintenance
+of records and periodic review of existing standards. (See the Comparative Criteria for Consensus
+Standards in Appendix A)
+1. Open Process. Participation is open to all interested persons, not unreasonably restricted
+and without undue financial barriers for participation.
+2. Notification. Timely and adequate notice of a proposed standard activity announced in
+suitable media as appropriate to demonstrate an opportunity for participation by all
+interested stakeholders
+3. Resolution of Concerns. The process allows an opportunity for all interests to participate
+in the deliberations, discussions, and decisions matters affecting the proposed standard.
+Any comments submitted during a public comment period have a process for resolution
+of objections with formal (written or electronic) communications as to the disposition of
+the objection and the reasons therefor.
+4. Written Consensus Procedures. The Standards Developer Organization has written
+procedures that govern the methods used for standards development and those
+procedures are made available to any interested person.
+5. Appeals Process. The Standards Developer Organization has a realistic and readily
+available appeals mechanism for the impartial handling of procedural appeals regarding
+any action or inaction open to all.
+6. Balance of Interests. Participants from diverse interest categories form the voting
+committee membership. The committee makeup should represent a balance of interest
+with no single interest category having dominant authority, leadership, or influence.
+7. Maintenance of Adequate Records. The Standards Developer Organization maintains
+adequate records of all discussions, decisions, and technical data accumulated in
+standards development.
+8. Periodic Review. A standard should be reviewed periodically by the responsible
+committee for revision or withdrawal or have a continuous update process to ensure
+technical accuracy and continued relevance.
+The following are a series of examples of the various concepts as mentioned in the eight
+principles presented above.
+Example: Three manufacturers of solid gold widgets get together and write an installation
+manual titled Installation of Widgets. No other parties were asked to participate in the
+development of the installation manual. It was developed over a two week period of time in
+1968. It has not been revised.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 15
+The current edition of the code requires that "Widgets shall be installed in accordance with the
+manufacturer's installation instructions."
+One of the three solid gold widget manufacturer's submits a code change proposal to revise the
+code to read "Widgets shall be installed in accordance with the Installation of Widgets - 1968
+edition manufacturer's installation instructions."
+Comment: A review of the promulgation process used to develop the proposed document quickly
+demonstrates that the process cannot be deemed to be consensus. The elements which are
+relevant to a consensus process (see Application on page 13) are noticeably absent.
+The reliability, technical accuracy and validity of information contained in a document that has
+not been developed through a consensus process are questionable.
+Mandatory Language
+CP 28 Section 3.6.2, Standard Content
+CP 28 Section 3.6.2.1 A standard or portions of a standard intended to be enforced shall be
+written in mandatory language.
+Application: The need for mandatory language in referenced standards should be obvious in this
+context because a standard is intended to be utilized for regulatory purposes. As a result, the
+standard must be presented so that the application and the intent are clear to all readers. The
+use of recommendations, advisory comments, and permissive, non-mandatory terms fails to
+provide sufficient, specifically enforceable direction to all users. A potential result is non-uniform
+interpretation or misapplication of the requirements. In particular terms such as "may," "should"
+and "can" are particularly significant in disrupting consistency of use as they create undefined
+conditional statements and can confuse the application of adopted codes.
+This requirement for mandatory language does not exclude the use of informational or
+explanatory materials developed to aid the reader in the use of the referenced standard.
+However, such informational or explanatory material must be limited to a location within the
+document that is clearly and conspicuously identified as not being a mandatory part of the
+standard.
+The existence of terms that by themselves are considered non-mandatory, particularly the word
+"may", must be considered in the context of its use. For example, in some cases, a statement that
+includes the term "may" would not be judged to be a strict violation of CP 28 when the provision
+also contains qualifying regulation when “may” is permitted to be used. However, the use of
+"may" is at best unnecessary. In virtually every case, the intent of the standard can be
+accomplished without using "may" and the result is usually a clearer and more precise standard.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 16
+The following are nine examples of non-mandatory language. These examples are hypothetical
+and are intended only to illustrate the effect of non-mandatory language. The specific text is not
+intended to portray actual, technical content.
+Example 1: Providing for an option, but failing to require compliance when the option is chosen,
+using language such as “may.”
+Text:
+A section within a standard addresses the connection of the bond wire between a loading pipe
+and a cargo vehicle. It states:
+The fixed end of a bond wire shall be connected to a fill pipe. In lieu of connecting the fixed
+end of the bond wire to a fill pipe, the bond wire may be connected to a metal loading rack
+that is electrically connected to the pipe.
+Comment:
+The intent appears to be clear. If the bond wire is not attached to the fill pipe, it must be attached
+to a metal loading rack. However, the text literally does not mandate that the bond wire be
+connected to the loading rack when connection to the fill pipe is not used. With the use of the
+term "may," the section only states that there is another location to which the bond wire might
+be connected but it does not require the bond wire to be connected to that location nor does it
+preclude some other unspecified and potentially unacceptable alternative location
+Suggested Solution:
+The solution in this case depends on the intent of the standard. If the intent is that connecting
+the bond wire to the fill pipe or the loading rack are the only two acceptable connecting locations,
+then simply changing "may" to "shall" in the second sentence is appropriate. This will provide for
+the option without any ambiguity. The vagueness and potential for misapplication regarding any
+other methods of connection is eliminated.
+...In lieu of connecting the fixed end of the bond wire to a fill pipe, the bond wire shall be
+connected to a metal loading rack that is electrically connected to the pipe.
+If the intent of the standard is to allow additional options that accomplish the intended result,
+additional text will be needed. It is inappropriate to presume that the original text above can be
+interpreted, or is necessary, to allow for other equivalencies. This can be accomplished by general
+text overlaying the entire standard that provides for equivalent alternatives, such as the text in
+Chapter 1 of the I-Codes that provides for alternative methods and materials. Alternatively, the
+second sentence in the example text can go on to provide for other options with text such as
+“...or shall be connected by other approved means that....”
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 17
+This proposed text should then go on to specify the performance requirement(s), acceptance
+criteria or other such information upon which the equivalency of the alternative method would
+be evaluated and approved. Stating "or by other approved means" by itself is insufficient as it
+would not provide any basis for judging the acceptability of the alternative method.
+Example 2: Unintentionally providing an unlimited choice of materials.
+Text:
+A section within a standard addresses the types of materials which are to be used when
+constructing a water distribution system. It states:
+Water service pipe and water distribution pipe may be of Material X, Material Y or
+Material Z.
+Comment:
+The standard intends to establish that any of the three stated materials are acceptable for
+compliance with the standard. However, the text literally does not prohibit the use of other
+materials. The use of "may" in this case only indicates that materials X, Y and Z are acceptable
+but does not establish that any other materials are not acceptable.
+Suggested Solution: In this case, and similar to Example 1, changing "may" to "shall" avoids the
+situation of allowing an unintentional unrestricted list of acceptable materials.
+Water service pipe and water distribution pipe shall be of Material X, Material Y or
+Material Z.
+Again, if the intent of the standard is to allow the use of other materials that can be demonstrated
+to be equivalent and therefore acceptable, additional text is needed in the same manner as
+discussed in Example 1.
+Example 3: Creating imprecise intent and unintended discretionary application of a standard.
+Text:
+A section within a standard where a provision is not required to be applied, which states:
+Re-grading requirements for E-rated, MSR and proof graded lumber may be waived, if the
+modulus of elasticity and tensile strength performance of the ripped pieces are monitored
+by quality control procedures.
+Comment:
+The phrase "may be waived" makes the provision less precise and the true intent of the provision
+subject to misapplication. The text implies that someone must take specific action to waive the
+requirements, yet it is not clear who, or if anyone, has the authority to grant the waiver. It also 
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 18
+implies that granting the waiver is discretionary. Someone with implied or actual authority can
+decide not to grant the waiver without any substantive basis since the text allows, but does not
+require, the waiver to be granted under the specified conditions.
+Suggested Solution:
+In this example, it is assumed the provision does not apply whenever the conditions of the waiver
+are met.
+Re-grading requirements for E-rated, MSR and proof graded lumber shall not apply where
+the modulus of elasticity and tensile strength performance of the ripped pieces are
+monitored by quality control procedures.
+This eliminates the implication that discretion can be exercised in deciding whether or not the
+re-grading requirement is applicable. If the conditions are satisfied, the provision is not
+applicable. It also avoids implying that someone must take specific action to grant the waiver.
+The standard is more clear and precise by simply stating when the provision is and is not
+applicable.
+It could be argued that this solution precludes someone, such as a design engineer or the code
+official, from being able to require re-grading even when quality control procedures are utilized.
+If that is the intent of the standard, then additional text should be created to specifically address
+that and to set forth precisely who can make that decision and the conditions under which regrading can be required. It is inappropriate to rely on the original text for such intent.
+Example 4: Lack of adequate clarity.
+Text:
+A section in a standard address how the quantity of specimens is to be measured, which states:
+Ingredients for each adhesive mix shall be determined by weight, except for liquids, which
+may be measured by volume.
+Comment:
+This text is unlikely to be misinterpreted and very likely would not be judged a strict violation of
+the ICC policy. Hypothetically, someone in a position of determining compliance with the
+standard could interpret that "may" means the same as "may or may not" if it was somehow
+favorable to their point of view and refuse to recognize the validity of a sample in which a liquid
+was measured by volume. This example illustrates that the unnecessary use of non-mandatory
+terms can be easily avoided while at the same time making the standard more clear and precise.
+Suggested Solution:
+Ingredients for each adhesive mix shall be determined by weight, except that liquids shall
+be measured by weight or volume.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 19
+Example 5: A statement that allows something, but does not prohibit anything else.
+Text:
+A standard establishes limitations on construction materials in enclosure walls. It states:
+Where the walls of an enclosure are required to have a fire resistance rating they shall be
+constructed of solid masonry units. Non-fire resistance rated enclosure walls may be
+constructed of hollow masonry units.
+Comment:
+This is similar to example 2 in that the second sentence allows the use of one type of material
+but literally does not restrict the use of other materials. For example, there is nothing that
+prohibits the use of combustible materials in non-fire resistance rated walls. The text was
+probably written with the mistaken presumption that the second sentence would be applied in
+the context of the first sentence. However, the first sentence deals only with fire resistance rated
+walls. Assuming that it somehow affects or relates to non-fire resistance rated walls is inaccurate.
+Suggested Solution:
+This solution is based on the assumption that the intent is to require that non-fire resistance
+rated walls be constructed of solid or hollow masonry units.
+Where the walls of an enclosure are required to have a fire resistance rating they shall be
+constructed of solid masonry units. Non-fire resistance rated enclosure walls shall be
+constructed of solid or hollow masonry units.
+Again, if the intent of the standard is to allow the use of other materials that can be demonstrated
+to be equivalent and therefore acceptable, additional text is needed in the same manner as
+discussed in Example 1.
+Example 6: Unenforceable commentary intermingled with mandatory provisions.
+Text: A standard gives instructions on preparing a sample for testing. It states:
+Place 10 g of lime-nitrate mixture in a 100 ml or number 3 crucible. Add the sample of
+treating solution in such a manner as to give even distribution of the sample. The sample
+should contain approximately 0.04 g pentachlorophenol. The sample size should
+approximately fit the following schedule...
+Comment: The last two sentences as written are essentially recommendations, guidance or
+suggestions. The second sentence does not require that the sample contain any
+pentachlorophenol. Both sentences are vague and subjective in that they do not provide any 
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 20
+criteria, such as definitive tolerances, on which to judge compliance. They do not specifically
+require or prohibit anything and are effectively unenforceable.
+Suggested Solution:
+If the intent of the standard is that these two sentences are advisory only and do not affect
+whether compliance with the standard has been accomplished, they should either be deleted
+from the standard or relocated to a commentary, a non-mandatory annex, or a note that is clearly
+portrayed as advisory and not part of the standard.
+Conversely, if the intent of the standard is that these issues could be a basis for judging that one
+has not complied with the standard, then they must be rewritten into positive, mandatory
+statements with the additional tolerances, ranges or other such provisions that will provide
+explicit criteria upon which compliance and noncompliance can be readily determined.
+Example 7: Unenforceable provision resulting from the use of subjective text and nonmandatory language to provide for an option.
+Text:
+To address the condition of the gas supply during installations and modifications, the standard
+states:
+All gas piping installations, equipment installations and modifications to existing systems
+shall normally be performed with the gas turned off to eliminate hazards from leakage of
+gas, except as outlined in "b" below.
+a. Reduce gas pressure and purge section to be worked on as specified in 4.3.
+b. Hot taps may be made if they are installed by trained and experienced crews utilizing
+equipment specifically designed for such a purpose.
+Comment:
+The apparent intent of the standard is that paragraph b establishes the only condition under
+which the gas supply can be left on. The term "normally" in the main paragraph may have been
+included on the mistaken view that it was necessary in order to clarify that an exception exists.
+However, the word "normally" only serves to introduce a lack of clarity. It begs the question of
+what is and is not considered "normal". It is not readily apparent that the "normal" condition is
+everything other than that described in the exception. Additionally, the use of "may" in paragraph
+b creates the same enforceability deficiency described in previous examples.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 21
+Suggested Solution:
+An exception to allow the gas supply to remain on under certain conditions can be accomplished
+without making the provision unnecessarily vague and subjective. Eliminating "may" makes the
+intent and application of the exception more precise and clear.
+All gas piping installations, equipment installations and modifications to existing systems
+shall be performed with the gas turned off to eliminate hazards from leakage of gas,
+except as outlined in "b" below.
+a. Reduce gas pressure and purge section to be worked on as specified in 4.3.
+b. Gas is not required to be turned off where piping and equipment is installed by trained
+and experienced crews utilizing equipment specifically designed for such a purpose.
+Another acceptable solution to the wording of paragraph b would be:
+b. Hot taps shall not be prohibited if they are installed by trained and experienced crews
+utilizing equipment specifically designed for such a purpose.
+Example 8: Alternatives provided without conditions or limitations; reference to Appendix
+material with no indication of use or application.
+Text:
+To establish gas pipe size, the standard states:
+The volume of gas to be provided shall be determined from the input ratings of the gas
+utilization equipment served. The aggregate connected hourly load shall be used for pipe
+sizing since all equipment may be operating simultaneously. If a diversity of load can be
+established, smaller pipe sizes may be used. Where equipment ratings are not known,
+Table C-1 of Appendix C shows the approximate demand of typical appliances by type.
+Comment:
+The term "may" in the second sentence is not a strict violation of the mandatory language policy.
+Although the phrase "since all equipment may be operating simultaneously" could be considered
+by some to be essential for understanding and applying the next sentence on alternative pipe
+sizing, that text is actually commentary and would be more appropriately relocated to a
+commentary, annex or non-mandatory note.
+The term "may" in the third sentence is another example of an unnecessary use of nonmandatory language. It does not preclude someone involved in judging whether compliance has
+been achieved from refusing to accept the smaller pipe sizes even though they may be technically
+adequate.
+The last sentence acknowledges the existence of information in an appendix but gives no
+direction as to how the information is to be used or whether it affects how compliance with the 
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 22
+standard is achieved. Since it is based on otherwise unknown information, one solution would be
+to require its use as the basis for pipe sizing. If the information is too broad and is intended only
+to be used as guidance for the designer, it should be deleted and relocated to a commentary,
+annex or non-mandatory note.
+Suggested Solution:
+The volume of gas to be provided shall be determined directly from the manufacturer's
+input ratings of the gas utilization equipment served. The minimum required pipe size shall
+be based on the total connected hourly load, since all equipment may be operating at full
+capacity simultaneously, except where a diversity of load can be established that
+substantiates the use of a lower load for pipe sizing purposes.
+Example 9: Recommendations.
+Text:
+A provision in a standard includes a recommendation, which states:
+Plastic pipe, tubing and fittings shall be joined either by Method A, Method B, Method C
+or Method D. It is recommended that the joining method be compatible with the materials
+being joined.
+Comment:
+A recommendation is clearly not enforceable and should not be included with the mandatory
+provisions.
+Suggested Solution: If the second sentence is truly intended only as a recommendation, and
+compliance with the standard is considered to be attained whether or not the joining method is
+compatible with the materials being joined, then the sentence should be deleted.
+Plastic pipe, tubing and fittings shall be joined either by Method A, Method B, Method C
+or Method D.
+If compatibility of the joining method with the materials is in some way critical to performance
+of the piping system, the solution would be to make it mandatory. Plastic pipe, tubing and fittings
+shall be joined either by Method A, Method B, Method C or Method D. The joining method shall
+be compatible with the materials being joined.
+If there are any qualifications, conditions, limitations or criteria that are to be used in determining
+compatibility, they should be explicitly stated in mandatory terms so that the precise use and
+application of the provisions is readily apparent and can be consistently applied and enforced.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 23
+Mandatory Language - NOTES and APPENDICIES
+Non-mandatory language can be present in a consensus developed document, but only when
+conspicuously identified as “notes,” “informative notes,” or “commentary,” or another form of
+identification depending on the policies of the standards developer. In addition, the standard
+should also be conspicuous about identifying that attribute in the front of the standard.
+Informational statements are typically explanatory information that is not intended to be a
+mandatory requirement of the standard. Informational statements are provided to aid in the
+application, understanding, or use of a specific provision in the standard. These informational
+statements can be located adjacent to the regulatory provisions when so identified as advisory,
+or located in an annex, appendix, or separate commentary
+As stated in CP 28 Section 3.6.2.1, the provision on mandatory language is applicable to the
+standard or the portion of a standard that is intended to be enforced. Therefore, CP 28 would
+not apply to any portion which is clearly and conspicuously identified as not being a mandatory
+part of the standard.
+Where informational statements such as "notes," “informative notes,” or "discussion" items are
+clearly and conspicuously identified as not being part of the standard, they are not subject to
+compliance with CP 28 Section 3.6. This also holds true for Appendices, Annexes and
+Commentaries. Unless there is a clear and definitive statement indicating that they are not
+mandatory parts of the standard they too are subject to compliance with CP 28 Section 3.6. The
+objective is to enable all users of the standard to readily identify the applicable provisions that
+determine compliance with the standard.
+To address this issue, some standards writing organizations include caveat statements within
+their standards which state how "informational" statements and non-mandatory portions are
+intended to be used.
+Example for "Notes":
+The text of this standard references notes, footnotes, and appendices which provide explanatory
+material. These notes and footnotes (excluding those in tables and figures) shall not be considered
+as requirements of the specification.
+Example for "Appendices": This Appendix is not a part of the requirements of this standard. It is
+included for informational purposes only."
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 24
+Key Points to an Appendix
+Use of the term "may" in a standard does not always constitute a violation of the ICC Policy.
+The mere existence of the term "may" in a standard does not automatically mean that it does
+not comply with CP 28 Section 3.6. The effect of a statement that uses "may" must be looked at
+in context.
+When the term "may" is used in a standard, as a verb "expressing ability," there is no issue of
+mandatory versus non-mandatory language, as it is being used to give a description rather than
+direction. When the term "may" is used in a standard "to imply permissive, optional or
+discretional" items, its use constitutes non-mandatory language. Though intended to give the
+user of a standard specific direction, this use of the term "may" would in reality do the opposite,
+give no specific direction. The examples in Chapter 2 cover both uses of the term "may.”
+While some uses of the term "may" do not necessarily constitute strict violations of CP 28,
+standards developers are encouraged to avoid the unnecessary use of the term "may" since the
+alternative text will virtually always result in a clearer, more precise document.
+Proprietary Requirements
+CP 28, Section 3.6.2.6, The standard shall not prescribe a proprietary agency for quality control
+or testing.
+While not a common occurrence, standards have been submitted for consideration to the ICC
+code development process that contained language that may be viewed as being tailored to a
+specific entity, process, or material. The purpose of this provision is to ensure that a standard
+proposed for reference in the I-Codes is fair, equitable and benefits all users of the I-Codes.
+A standard that contains proprietary information or mandates a proprietary service, product or
+testing protocol, becomes an issue when it is easily perceived as not being open and appearing
+to violate the antitrust laws and regulations of the United States. The provisions of these U. S.
+Federal Laws are relatively simple. These simple principles include; but are not limited to, do not
+limit to single manufactures, products or services, do not specify single entities, and do not
+include language that would allow entities to gain an unfair competitive advantage. In addition,
+if such a publication were accepted, it would compromise the credibility of the development of
+the family of I-Codes. It is imperative that legal counsel be consulted in such instances.
+CHAPTER 3
+Proposing a new reference standard
+Proposing a standard that is new to any one of the International Code Council’s (ICC)
+International Model Codes are subject to compliance with Section 3.6 of Council Policy 28 (CP
+28). See Chapter 2 of this guide for specific guidance regarding the technical content and
+development process for standards to be considered for reference.
+It should be recognized that there is no limitation as to what can be submitted for consideration
+as a referenced standard, however, that which is submitted will still be subject to the
+requirements of Section 3.6 of CP 28 with only one exception. The only documents that are
+exempt from the requirements of Section 3.6 are the I-family of codes (e.g. IBC, IFC, etc.) as they
+are inclusive to each of the I-Codes for the purpose of coordination. Submissions could include
+publications which are entitled federal regulations, codes, guides, design manuals, specifications,
+reports or anything else. The enforcement of this requirement would also be applicable to
+standards which are either produced exclusively, or jointly, by the International Code Council.
+Understanding Section 3.6.3 of CP 28 Standard Promulgation Process
+A code change proposal that would introduce a standard that is not currently referenced in the
+I-Codes must be submitted in accordance with Section 3.0 of CP 28 and the proposed standard
+must meet the requirements of Section 3.6.3.1.1. Thus, the inclusion of the proposed standard is
+subject to the full code development process in the same manner as any other proposed revision
+to any I-Code. The proposed reference standard is required to be specifically identified in a code
+change proposal. ICC has standardized the submittal process through the use of a cloud based
+program called cdpACCESS™ (cdpACCESS)
+The code change proposal must include information about the standard’s title, number, and the
+edition year of the proposed standard in the code change proposal for inclusion in the Referenced
+Standards chapter of the specific I-code which is proposed to be revised. If the standard is
+proposed for reference in more than one section of the code, the text for each such relevant
+provision must be included in the code change.
+When a standard exists in another I-Code, and the proposal is to place that same standard in a
+different I-Code, proponents of code changes should be aware that only the same year edition
+which is currently referenced will be considered in this process. If the publication is of a different
+year edition it will be treated as a new standard and therefore subject to Section 3.6 (i.e. a newly
+introduced standard) and not Section 4.6 (i.e. updating of an existing standard).
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 26
+Secretariat Analysis of a proposed new referenced standard
+In order to be a complete code change proposal, the submitter needs to provide copies of the
+standard to the ICC Secretariat in accordance with Section 3.4 of CP 28. Two copies of each
+proposed new referenced standard in hard copy or one copy in electronic form is required per
+procedures. Additional copies are also required in order for the proponent to send the standard
+to members of the code development committee considering the code proposal. The proposed
+reference standard shall be in at least draft consensus form at the time of submitting the code
+change (Section 3.6.3.11 of CP 28).
+The ICC Secretariat provides a cursory review of the proposed standard for compliance with key
+criteria in Section 3.6 of CP 28. The results of the review are then posted as part of ICC staff’s
+analysis of the code change. Even though the review performed by staff is a cursory review, all
+aspects of the standards criteria in CP 28 are possible issues to be considered and debated at the
+hearings.
+If a standard, or standard that is in draft form, is not submitted by a deadline, as established by
+the ICC staff, the proposal is then considered incomplete. Section 4.3 “Incomplete Code Change
+Proposals” of CP 28 will be enforced where the ICC Secretariat notifies the proponent of the
+deficiencies and establishes a deadline for all corrections to be made in order for the code change
+proposal to move forward. If those corrections are not received by the deadline the code change
+proposal is then removed from the hearing agenda.
+If the code development committee at the Committee Action Hearing recommends either “As
+Submitted” or “As Modified” for the code change proposal, and the proposed new standard is
+not finalized (i.e. the standard is still in consensus draft form), the proposal is automatically
+placed on the Public Comment Agenda as an opportunity for the proponent to have a completed
+standard in time for the Public Comment Hearing. In this case, it is required that the standard be
+completed prior to the hearing of the code change proposal at the Public Comment Hearing.
+If the code development committee recommends “Disapproval,” and the proposed standard is
+not finalized, any further consideration for this standard plus the related code change proposal
+must be submitted as a public comment for consideration at the Public Comment Hearing. The
+new standard must be completed prior to the Public Comment Hearing for the public comment
+to be considered. In this case, it is the intent that the standard be completed and readily available
+prior to the hearing of the code change proposal at the Public Comment Hearing.
+The ICC Staff "Analysis" statement is used as a means to provide information to the participants
+in the process as to compliance of the proposed standard with key CP 28 requirements. An
+Analysis statement, when provided, may address one or more of the following points.
+• Recent history of the code section being affected by the proposed code change.
+• Conflicts the proposed code change proposal might create.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 27
+• Whether or not a proposed new standard, in the opinion of the Secretariat, complies with
+key criteria in Section 3.6 of CP 28. If the standard does not comply, the specific aspects
+of noncompliance are identified.
+Example Analysis Statement
+“The standard being proposed is ACME X21.1-2005. A review of ACME X21.1 has
+demonstrated that the document does not comply with Sections 3.6.2.1 and 3.6.3.2 of CP
+28 as it has not been demonstrated to have been developed through a consensus process
+and contains non-mandatory language.”
+Proposed code changes which reference new standards in the I-Codes are treated in the same
+manner as a proposed code change which adds new code text. The Secretariat's analysis provides
+information that can be taken into consideration by participants in the process, including the
+Code Development Committee and eligible voting members at the Public Comment Hearing
+(PCH) and the Online Governmental Consensus Vote (OGCV). The procedures leave the decision
+for acceptance of the standard with the committees and ultimately the eligible voting members
+of ICC. If the final action is for approval of the proposed change, the reference to the standard
+will be incorporated into the next edition of the I-Code(s).
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 28
+CHAPTER 4
+Updating referenced standards
+Standards referenced in codes need to be updated for the same reasons the I-Codes are updated:
+to stay current with the latest best practices; responses to field issues; technology changes;
+and/or to clarify the requirements. Utilizing the most current standard is just as critical to
+protecting health, safety, and general welfare as utilizing the most current set of I-Codes.
+
+Requirements for content and development
+The requirements for the content and development process of referenced standards in ICC
+Council Policy 28 (CP 28), Section 3.6, apply to both the initial referencing and the updating of
+standards. Chapter 2 of this Guide provides further guidance on the content and development
+process for standards referenced in the I-Codes.
+Types of updates
+There are two types of updates to existing reference standards:
+1. Updating the standard only, with no corresponding proposed change to code text,
+because the changes within the reference standard do not impact the existing code text.
+2. Technical revisions proposed to code text to coordinate with a proposed update of an
+existing reference standard.
+TYPE 1 – Updating only
+Where the proposed update of the referenced standard does not require coordination with a
+code change proposal to revise current code text, the update is done in accordance with Section
+4.6 of CP 28. In this case, the updated referenced standard does not directly affect the current
+code text. This process represents only a change to the code to reference the updated standard.
+Prior to the code change deadline for the Group B cycle, ICC staff provides each Standard
+Development Organization (SDO) with a letter requesting the SDO indicate if one or more of the
+SDO’s standards will be updated along with a spreadsheet which is a list of all of their standards
+currently referenced throughout the I-Codes. This provides the SDOs with the opportunity to
+submit updates on their respective standards to ICC staff in an efficient manner. The
+spreadsheets from all the SDOs are then compiled by ICC staff into a single code change proposal,
+and are processed like all other code proposals in the Group B cycle.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 29
+In accordance with Section 4.6 of CP 28, the deadline for availability of the updated standard and
+receipt by ICC staff is December 1 of the third year of each code cycle.
+The practical application of the CP 28 requirement for the availability of the updated standard is
+that the updated standard be published and readily available. If the updated standard is not
+readily available by the December 1st deadline, the edition of the standard referenced by the
+newly published code shall revert back to the previously referenced edition of that standard, and
+an erratum to the code is issued accordingly.
+Section 4.6 states:
+4.6 Updating Standards Referenced in the Codes: Standards referenced by the Codes that
+do not require coordination with a code change proposal to the code text shall be updated
+administratively by the Administrative Code Development Committee in accordance with
+these full procedures except that the deadline for availability of the updated standard and
+receipt by the Secretariat shall be December 1 of the third year of each code cycle. The
+published version of the new edition of the Code which references the standard will refer
+to the updated edition of the standard. If the standard is not available by the December
+1st deadline, the edition of the standard as referenced by the newly published Code shall
+revert back to the reference contained in the previous edition and an errata to the Code
+issued. Multiple standards to be updated may be included in a single proposal.
+Unlike currently referenced standards developed by other SDOs, ICC developed reference
+standards are not updated in the relevant reference standards chapters through an
+administrative code change proposal. Similar to the family of I-Codes which are updated to the
+next edition, ICC Standards are automatically updated in accordance with Section 4.6.1 of CP 28.
+ICC staff announces which ICC standards are undergoing an update in order to allow all
+stakeholders to participate in the update process. This is based on the open, transparent process
+of ICC standards development much the same as the I-Codes update process.
+Section 4.6.1 states:
+4.6.1 Updating ICC Standards Referenced in the Codes. All standards developed by ICC and
+referenced by the Codes which are undergoing an update shall be announced by ICC to
+allow stakeholders to participate in the update process. Where the updated standard is
+completed and available by December 1 of the third year of the code cycle, the published
+version of the new edition of the Code which references the standard shall refer to the
+updated edition of the standard. If the standard is not available by the December 1st
+deadline, the edition of the standard as referenced by the newly published Code shall
+revert back to the reference contained in the previous edition and an errata to the Code
+issued.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 30
+The Administrative Code Development Committee hears the update of those reference
+standards because there are hundreds of existing referenced standards being updated each
+cycle, and there are several referenced standards that are referenced within multiple codes (e.g.
+ASTM E84, UL 723). Referencing the same edition of a standard referenced throughout multiple
+I-Codes provides consistency. This administrative process provides greater efficiency in
+processing these updates, while providing full opportunity for any stakeholder to comment on
+the referencing of updated standards through the normal code development process.
+During code hearings, any individual who wishes to take issue with the proposed updating of any
+standard has the opportunity to testify at the Committee Action Hearing in the Group B cycle.
+Depending on the action taken by the Administrative Code Development Committee, a public
+comment on the proposed updating of any referenced standard can be submitted. All such public
+comments are published and made available for the Public Comment Hearing.
+If the proposed update for a referenced standard is disapproved by the voting membership, the
+date of the referenced standard will remain as previously referenced.
+TYPE 2 – Standards with Technical Changes to Codes
+Where the proposed update of the referenced standard does include proposed technical
+revisions to the code text, the update is done in accordance with Section 3.6.3.1.2 of CP 28. This
+may be necessary in order to align the updated referenced standard with the code requirements,
+or to change the application of the referenced standard in the code.
+Section 3.6.3.1.2 states:
+3.6.3.1.2 Update of Existing Standards. Code change proposals which include technical
+revisions to the code text to coordinate with a proposed update of an existing referenced
+standard shall include the submission of the proposed update to the standard in at least
+a consensus draft form in accordance with Section 3.4. If the proposed update of the
+existing standard is not submitted in at least consensus draft form, the code change
+proposal shall be considered incomplete and shall not be processed. The code change
+proposal, including the update of the existing referenced standard, shall be considered at
+the Committee Action Hearing by the applicable code development committee
+responsible for the corresponding changes to the code text. If the committee action at
+the Committee Action Hearing is either As Submitted or As Modified and the updated
+standard is not completed, the code change proposal shall automatically be placed on
+the Public Comment Agenda with the recommendation stating that in order for the
+public comment to be considered, the updated standard shall be completed and readily
+available prior to the Public Comment Hearing. If the committee action at the Committee
+Action Hearing is Disapproval, further consideration on the Public Comment Agenda
+shall include a recommendation stating that in order for the public comment to be 
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 31
+considered, the updated standard shall be completed and readily available prior to the
+Public Comment Hearing.
+Updating of standards without corresponding code text changes shall be accomplished
+administratively in accordance with Section 4.6.
+An example of a technical code change proposal with existing reference standards contained
+within the proposal can look like the following:
+These proposals are not always submitted by the SDO. Anyone can submit these code change
+proposals in the appropriate code cycle for hearing by the relevant code development committee
+responsible for the code section at the Committee Action Hearing. Such code change proposals
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 32
+will not be heard by the Administrative Code Development Committee as these code change
+proposals represent a technical change to the I-Codes and not just an updating of the standard.
+These code change proposals are required to include a copy of the updated standard, in at least
+a consensus draft form, in accordance with Section 3.4 of CP 28. If the published standard or the
+draft consensus standard is not included in the code change proposal, the code change proposal
+will be considered by ICC staff as incomplete and thus will not be processed.
+If the committee action at the Committee Action Hearing is to approve either “As Submitted” or
+“As Modified” and the update of the standard is not finalized (i.e. the updated standard is still in
+consensus draft form), the code change proposal is automatically placed on the Public Comment
+Hearing Agenda since the standard is not completed and is required to be completed by the
+Public Comment Hearing. If the action is disapproval, then for any public comment to be
+considered the subject reference standard will have to be completed and readily available by the
+Public Comment Hearing.
+Regardless of what action was taken at the Committee Action Hearing, for the existing referenced
+standard to be able to be updated in the I-Codes, the updated standard is required to be
+completed and readily available for stakeholders to view prior to the Public Comment Hearing.
+Otherwise, the referenced standard will not be updated in the next edition of the code.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 33
+CHAPTER 5
+Frequently asked questions
+Chapter 2
+If I use non-mandatory language within a standard, such as the word “may,” is that in violation
+of CP 28?
+It depends how such terms are used in context. Statements using terms that are typically
+associated with non-mandatory language, particularly the term "may", are usually less clear or
+precise than necessary. Avoiding their use, including those cases where their use will not cause
+the standard to be judged in violation of Council Policy 28 (CP 28), will produce a better standard.
+The unnecessary use of ambiguous terminology makes the standard less precise and subject to
+misinterpretation or misapplication.
+Hypothetically, one could interpret that the use of the term "may" means the same as "may or
+may not." If this interpretation was somehow favorable to one side of a dispute, the result could
+be refusal to recognize the validity of other options that are intended to be acceptable.
+By stating requirements in clear and concise language the potential for misapplication is
+significantly reduced. The unnecessary use of non-mandatory terms can be easily
+avoided without compromising the versatility intended by the standards developer.
+Chapter 3
+Does a standard have to be developed through the ANSI or ASTM process to meet the ICC
+standards policy?
+No. Section 3.6.3.2 of CP 28 does not require that standards referenced in the I-Codes be
+developed through the ANSI or ASTM promulgation process, however the standard is required
+to be developed using a consensus-based process. ASTM and ANSI are just two examples of well
+known and recognized consensus standards development processes; but are only identified in
+the ICC policy as “examples” of acceptable consensus development processes. Section 3.6.3.2
+clearly states this:
+"The standard shall be developed and maintained through a consensus process such as
+ASTM or ANSI.”
+Therefore, any standards that can be demonstrated to have been developed and maintained
+through a consensus process will comply with this criterion (See Chapter 2 for the eight principles 
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 34
+of a consensus process). The Appendix contains a table entitled Comparative Criteria for
+Consensus Standards that discusses the characteristics that are fundamental to a consensus
+standards development process.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 35
+APPENDIX - A
+Comparative criteria for consensus standards
+This section provides guidance concerning the fundamental characteristics regarding two
+standards development processes as referenced in Section 3.6.3.2 of CP 28. This material is
+meant only as a guide and therefore, the user of this Guide is responsible for complying with
+the applicable requirements as set forth by the organizations. As noted in ICC procedures, the
+procedures of both ASTM and ANSI are subject to change. For the latest procedures, be sure to
+visit:
+ANSI:
+www.ansi.org
+ASTM:
+www.astm.org
+For the benefit of the user of this guide Appendix Table 1 represents a comparison of the two
+standards developer’s organizations to illustrate the similarities and differences of their
+processes.
+APPENDIX TABLE 1
+COMPARATIVE CRITERIA EXAMPLES
+Subject ASTM ANSI
+Open Process 1.1.2.1 Responsibilities of membership
+(partial) — Open participation and the
+consensus process are core values and
+the principal strengths of standards
+development in ASTM International. To
+be …..
+1.1 Openness
+Participation shall be open to all
+persons who are directly and
+materially affected by the activity
+in question. There shall be no
+undue financial barriers to
+participation. Voting membership
+on the consensus body shall not be
+conditional upon membership in
+any organization, nor unreasonably
+restricted on the basis of technical
+qualifications or other such
+requirements.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 36
+SUBJECT ASTM ANSI
+Notification 1.4 Society Principles
+7.1.1 Timely and adequate
+notice of a proposed standard
+undertaking to all persons known to
+the Society to be likely to be
+materially affected by it.
+9.3 Notification — All members of
+committees and subcommittees shall
+receive calls to meetings, minutes,
+and related committee material.
+1.5 Notification of standards
+development
+Notification of standards activity
+shall be announced in suitable
+media as appropriate to
+demonstrate an opportunity for
+participation by all directly and
+materially affected persons.
+SUBJECT ASTM ANSI
+Resolution of Concerns 1.4 Society Principles
+7.1.2 Opportunity for all affected
+interests to participate in the
+deliberations, discussions, and
+decisions concerned both with
+procedural and substantive matters
+affecting the proposed standard.
+2.6 Consideration of views and
+objections (partial)
+Prompt consideration shall be
+given to the written views and
+objections of all participants,
+including those commenting on the
+PINS announcement or public
+comment listing in Standards
+Action.
+In connection with an objection
+articulated during a public
+comment period, or submitted
+with a vote, an effort to resolve all
+expressed objections accompanied
+by comments related to the
+proposal under consideration shall
+be made, and each such objector
+shall be advised in writing
+(including electronic
+communications) of the disposition
+of the objection and the reasons
+therefor. If resolution . . . .
+Subject ASTM ANSI
+Written Consensus
+Procedures
+1.5 The Committee on Technical
+Committee Operations (COTCO) — A
+standing committee of the Society,
+COTCO has the following responsibilities
+as stated in its scope: ". . . develops and
+maintains the Regulations Governing
+ASTM Technical Committees, and . . . the
+interpretation and enforcement of these
+regulations . . ."
+1.9 Written procedures
+Written procedures shall govern
+the methods used for standards
+development and shall be available
+to any interested person.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 37
+Subject ASTM ANSI
+Appeals Process 1.4.1 Appeals procedures are available to
+all interests.
+1.8 Appeals
+Written procedures of an ANSI
+Accredited Standards Developer
+(ASD) shall contain an identifiable,
+realistic, and readily available
+appeals mechanism for the
+impartial handling of procedural
+appeals regarding any action or
+inaction. Procedural appeals
+include whether a technical issue
+was afforded due process.
+SUBJECT ASTM ANSI
+Balance of Interests 3.1.1 balance, n — in a classified
+committee or subcommittee, when the
+combined number of voting user,
+consumer, and general interest members
+equals or exceeds the number of voting
+producer members.
+1.3 Balance
+The standards development
+process should have a balance of
+interests. Participants from diverse
+interest categories shall be sought
+with the objective of achieving
+balance. If a consensus body lacks
+balance in accordance with the
+historical criteria for balance, and
+no specific alternative formulation
+of balance was approved by the
+ANSI Executive Standards Council,
+outreach to achieve balance shall
+be undertaken.
+1.2 Lack of dominance
+The standards development
+process shall not be dominated by
+any single interest category,
+individual or organization.
+Dominance means a position or
+exercise of dominant authority,
+leadership, or influence by reason
+of superior leverage, strength, or
+representation to the exclusion of
+fair and equitable consideration of
+other viewpoints.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 38
+Subject ASTM ANSI
+Maintenance of
+Adequate Records
+1.4 Society Principles
+7.1.3 Maintenance of adequate
+records of discussions, decisions,
+and technical data accumulated in
+standards development.
+3.4 Evidence of compliance
+ANSI-Accredited Standards
+Developers shall retain records to
+demonstrate compliance with all
+aspects of these and the
+developer’s accredited procedures.
+Such records shall be available for
+audit as directed by the ANSI
+Executive Standards Council (ExSC).
+Subject ASTM ANSI
+Periodic Review 10.6.3 Frequency of Review — A standard
+should be reviewed in its entirety by the
+responsible subcommittee and shall be
+balloted for reapproval, revision, or
+withdrawal within five years of its last
+approval date. If the standard has not
+received a new approval date by
+December 31 of the eighth year since the
+last approval date, the standard will be
+withdrawn.
+4.7.1 Periodic maintenance of
+American National Standards
+(partial)
+Periodic maintenance is defined as
+the maintenance of a standard by
+review of the entire document and
+action to revise or reaffirm it on a
+schedule not to exceed five years
+from the date of its approval as an
+American National Standard.
+In the event . . .
+ASTM – ASTM Regulations Governing ASTM Technical Committees, April 2020
+ANSI – ANSI Essential Requirements: Due Process Requirements for American National Standards, January 2020.
+Copyright © 2020 International Code Council, Inc.
+ICC Reference Standards Guide
+Page 39
+APPENDIX – B
+Acronyms
+AHRI – Air-Conditioning, Heating & Refrigeration Institute
+AISC – American Institute of Steel Construction
+AISI – American Iron and Steel Institute
+ANSI – American National Standards Institute
